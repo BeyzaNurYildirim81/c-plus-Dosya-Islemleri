@@ -1,1 +1,1 @@
-# c-plus-Dosya-Islemleri
+# c++ ile yazıldı. Tamamlanmamış işlevler var.
